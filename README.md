@@ -44,4 +44,4 @@ The agent system itself is private. What I can extract from it is coming here �
 wrapper (contracts, fencing, per-call cost logging), and a public evaluation of how reliably
 different models obey a declared output contract under real work, measured from my own logs.
 
-Mönchengladbach, Germany · [LinkedIn](https://www.linkedin.com/in/a1jyex)
+Mönchengladbach, Germany · [LinkedIn](https://www.linkedin.com/in/alexandr352)
