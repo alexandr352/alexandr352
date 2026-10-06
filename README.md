@@ -4,7 +4,7 @@ Senior frontend engineer (Vue, TypeScript, Canvas). Since June 2026 I design and
 autonomous development system on my own server: a team of LLM agents that carries tickets from
 backlog to a merged pull request, with a human approving only what needs a human.
 
-**In production, measured 2026-10-06**
+**In production this week**
 
 - 18 agents and 26 deterministic tools in active service, running unattended
 - 1,151 LLM calls in the last 7 days — 1,150 ok, 1 timeout
@@ -31,10 +31,17 @@ zooming, node connection, kept fast on large story graphs. Vue and TypeScript on
 localization platform, where in 2026 I used these agent workflows to deliver 511 commits,
 including a large WCAG accessibility pass.
 
-**What is going up here**
+**Published**
 
-The system itself is private. What I can extract is coming here — starting with the agent-call
-wrapper (contracts, fencing, per-call cost logging) and a public evaluation of how reliably
+[**@taleswords/lib-ui**](https://github.com/taleswords/taleswords-lib-ui) — a Vue 3 component
+library and design system. 43 components, 39 test files including Playwright interaction
+contracts, token-driven styling, dark mode, WCAG AA. MIT, on
+[npm](https://www.npmjs.com/package/@taleswords/lib-ui).
+
+**Coming next**
+
+The agent system itself is private. What I can extract from it is coming here — the agent-call
+wrapper (contracts, fencing, per-call cost logging), and a public evaluation of how reliably
 different models obey a declared output contract under real work, measured from my own logs.
 
 Mönchengladbach, Germany · [LinkedIn](https://www.linkedin.com/in/a1jyex)
