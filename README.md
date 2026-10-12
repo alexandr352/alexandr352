@@ -32,11 +32,11 @@ and the operator judges the report against what git shows, never reading the cod
 default-deny fence on every tool call, recovery when a session dies, a live work log, and a
 spirit you can ask about any unit. Standard-library Python, MIT.
 
-[**hearthwood**](https://github.com/alexandr352/hearthwood) — a read-only companion for project
-managers. It reads a Jira Cloud project (through your own sign-in) or a GitHub board, works out in
-plain code what is ready, blocked, not moving or duplicated, has Claude read it once for the part
-you choose (this sprint, recent work), and learns how you judge from your agree and disagree.
-Nothing is ever written to your board. Python, MIT.
+[**hearthwood**](https://github.com/alexandr352/hearthwood) — a read-only companion for product
+owners and delivery leads. It reads a Jira Cloud project (through your own sign-in) or a GitHub
+board, works out in plain code what is ready, blocked, not moving or duplicated, has Claude read it
+once for the part you choose (this sprint, recent work), and learns how you judge from your agree
+and disagree. Nothing is ever written to your board. Python, MIT.
 
 [**@taleswords/lib-ui**](https://github.com/taleswords/taleswords-lib-ui) — a Vue 3 component
 library and design system. 43 components, 39 test files including Playwright interaction
