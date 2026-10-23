@@ -12,6 +12,8 @@ backlog to a merged pull request, with a human approving only what needs a human
   per individual call
 - 86 tickets taken through the pipeline since 20 September, 79 of them to Done; 31 agent
   failures sent first to a repair agent's diagnose, fix and verify loop
+- 16 pull requests tested by a QA agent since 16 October, in a real browser on a running
+  instance of the app
 - 24,895 append-only audit records; 45 engineering rules, each one traced to a recorded incident
 
 A merged ticket takes a median of 51 agent calls and about $26 API-equivalent, from Todo to a
